@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537418024601",
+    "project_id": "scribblr-ui",
+    "storage_bucket": "scribblr-ui.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537418024601:android:d1b63e3dc9e51dd1a89a08",
+        "android_client_info": {
+          "package_name": "com.scribblr.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPgyWxZcejg97tYfj0rGI7bI0qa7lras8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
